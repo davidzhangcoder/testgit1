@@ -1,6 +1,7 @@
 # testgit1
 a2
 
+
 a1
 a1-1
 <<<<<<< Upstream, based on origin/master
@@ -25,3 +26,5 @@ a1-work-1-2
 
 a2
 a2-2
+
+a1
